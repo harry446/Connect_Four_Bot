@@ -1,7 +1,7 @@
 # Connect Four Bot
 
 ## About
-This is a text-based version of the game Connect Four. The player will be  matched against a bot. The game randomly decides who goes first. The player and the bot will then play the game out, until either side wins, or the game ends in a tie. After that the player's new score will be calculated, and the player will be asked to choose to play again or to leave. If the player chooses to leave, the game will end.
+This is a text-based version of the game Connect Four. The player will be  matched against a bot. The game randomly decides who goes first. The player and the bot will then play the game out, until either side wins, or the game ends in a tie. After that the player's new score will be calculated, and the player will be asked to choose to play again or to leave. If the player chooses to continue, the above process will be repeated, otherwise, the game will end.
 
 
 ## How the Program Works
