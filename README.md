@@ -13,7 +13,7 @@ Alpha-beta pruning was implemented to prune out the useless branches of the tree
 
 
 ## Game Strategies that the Bot Adopts 
-
+The game
 
 
 ## Additional Notes
