@@ -13,7 +13,7 @@ Alpha-beta pruning was implemented to prune out the useless branches of the tree
 
 
 ## Game Strategies that the Bot Adopts 
-The game 
+The heuristic value is calculated by the *`boardScore()`* function. It checks for 4 in a line, 3 in a line, and pieces at the center column and gives them different values. It also implements the odd-even strategy of the game. Note that the function does not check for 2 in a line because it is assuming that the searching depth is going to be at least 2. 
 
 
 ## Additional Notes
