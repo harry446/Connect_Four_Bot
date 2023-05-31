@@ -17,4 +17,4 @@ The heuristic value is calculated by the *`boardScore()`* function. It checks fo
 
 
 ## Additional Notes
-The searching depth of the AI can be changed, the difficulty of the AI directly relates to the searching depth (the higher the depth, the stronger the AI). The program will not function if the searching depth is set to 0, and if the searching depth is below 3, the AI will not be able to see some of the "obvious" moves. The recommended searching depth would be at least 5.
+The searching depth of the AI can be changed, the difficulty of the AI directly relates to the searching depth (the higher the depth, the stronger the AI). The program will not function if the searching depth is set to 0, and if the searching depth is below 3, the AI will not be able to see some of the "obvious" moves. The recommended searching depth would be at least 5
